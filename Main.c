@@ -2,6 +2,7 @@
  * File:   Main.c
  * Author: Andres R.
  * Created on January 27, 2015, 6:59 PM
+ * Deplyment code for the PIC16F73
  */
 #include<xc.h>
 #include<pic.h>
